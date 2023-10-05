@@ -8,7 +8,7 @@
         "size": "medium",
         "icon": {
           "type": "url",
-          "url": "https://image.flaticon.com/icons/png/512/1077/1077035.png"
+          "url": "https://raw.githubusercontent.com/IamEgor/android-assistant-sdk-cards/svg_icon/ic_24_profile_badge_outline.svg"
         },
         "actions": [
           {
