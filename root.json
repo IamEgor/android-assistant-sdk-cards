@@ -12,6 +12,16 @@
             }
           ]
         },
+          {
+          "Перевод в задизейбленных":[
+            {
+              "text":"Для talkback"
+            },
+            {
+              "system":"https://raw.githubusercontent.com/sdtestersd/test/master/listcard/left_right_cell_view/left_right_cell_view_mobile.json?sdkRender=true"
+            }
+          ]
+        },
         {
           "Выбери контакт по хешу телефона":[
             {
