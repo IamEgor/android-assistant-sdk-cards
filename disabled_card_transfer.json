@@ -178,6 +178,7 @@
             "type": "left_right_cell_view"
           },
           {
+            "accessibility" : "MasterCard Gold mir, 4 592,50 ₽, дефолтный текст",
             "divider": {
               "style": "default",
               "size": "d1"
