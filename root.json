@@ -454,6 +454,13 @@
               "system":"https://raw.githubusercontent.com/IamEgor/android-assistant-sdk-cards/main/card_balance_category/single_card_sensitive.json"
             }
           ]
+        },
+        {
+          "Баланс нескольких карт":[
+            {
+              "system":"https://raw.githubusercontent.com/IamEgor/android-assistant-sdk-cards/main/card_balance_category/few_cards_sensitive.json"
+            }
+          ]
         }
       ]
     },
