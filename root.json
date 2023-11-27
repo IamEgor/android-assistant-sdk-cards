@@ -461,6 +461,13 @@
               "system":"https://raw.githubusercontent.com/IamEgor/android-assistant-sdk-cards/main/card_balance_category/few_cards_sensitive.json"
             }
           ]
+        },
+        {
+          "no_name sensitive":[
+            {
+              "system":"https://raw.githubusercontent.com/IamEgor/android-assistant-sdk-cards/main/card_balance_category/no_name.json"
+            }
+          ]
         }
       ]
     },
