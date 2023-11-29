@@ -1,9 +1,11 @@
 {
+  "expand_policy": "preserve_panel_state",
   "items": [
     {
       "bubble": {
         "text": "Привет\n######Здравствуйте! Дуэт наших приветствий напоминает мне итальянскую оперу",
-        "markdown": true
+        "markdown": true,
+        "expand_policy": "preserve_panel_state"
       }
     }
   ]
