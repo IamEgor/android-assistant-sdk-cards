@@ -428,7 +428,7 @@
             {
               "system":"https://raw.githubusercontent.com/IamEgor/android-assistant-sdk-cards/main/suggest_category/suggest_server_action.json"
             }
-          ],
+          ]
         }
       ]
     },
