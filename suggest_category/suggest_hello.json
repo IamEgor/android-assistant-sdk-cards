@@ -2,7 +2,7 @@
   "debug_info": {},
   "additional_apps_payload": [],
   "assistant_items": [],
-  "pronounceText": "<speak>Здравствуйте! Дуэт наших приветствий напоминает мне итальянскую оперу</speak>",
+  "pronounceText": "<speak>Здравствуйте! Дуэт наших приветсвтий напоминает мне итальянскую оперу</speak>",
   "pronounceTextType": "application/ssml",
   "auto_listening": false,
   "projectName": "Поговори с искусственным интеллектом",
