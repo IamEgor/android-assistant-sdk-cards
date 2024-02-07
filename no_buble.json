@@ -1,0 +1,115 @@
+{
+  "debug_info": {},
+  "additional_apps_payload": [],
+  "assistant_items": [],
+  "pronounceText": "<speak>Здравствуйте! Дуэт наших приветствий напоминает мне итальянскую оперу</speak>",
+  "pronounceTextType": "application/ssml",
+  "auto_listening": false,
+  "projectName": "Поговори с искусственным интеллектом",
+  "intent": "axon",
+  "app_info": {
+    "projectId": "179f5808-4d7a-4621-93fd-28c4699f06db",
+    "applicationId": "c692fd3e-b017-4e91-8129-de6bd88b941e",
+    "appversionId": "7bcc3868-94c9-4dc5-9e4d-ca96761a7e1d",
+    "systemName": "axon",
+    "frontendEndpoint": null,
+    "frontendType": "DIALOG",
+    "apkInfo": {},
+    "ageLimit": 0,
+    "affiliationType": "INTERNAL",
+    "frontendStateId": "179f5808-4d7a-4621-93fd-28c4699f06db_c692fd3e-b017-4e91-8129-de6bd88b941e_7bcc3868-94c9-4dc5-9e4d-ca96761a7e1d",
+    "securityAccess": {},
+    "appearance": {
+      "header": {
+        "title": "Поговори с искусственным интеллектом",
+        "icon": {
+          "type": "url",
+          "url": "https://cdn.sberdevices.ru/catalog/images/boltalka_2.png",
+          "hash": "644ed406cdc3de247d390558ca388634"
+        }
+      }
+    },
+    "allowFastRunApp": false,
+    "availableOrientations": []
+  },
+  "activate_app_info": true,
+  "emotion": {},
+  "items": [
+    {
+      "bubble": {
+        "text": "Здравствуйте! Дуэт наших приветствий напоминает мне итальянскую оперу"
+      }
+    }
+  ],
+  "asr_hints": {},
+  "suggestions": {
+    "buttons": [
+      {
+        "title": "Удиви меня",
+        "action": {
+          "type": "text",
+          "text": "Удиви меня"
+        }
+      },
+      {
+        "title": "Хочу узнать что-то новое",
+        "action": {
+          "type": "text",
+          "text": "Хочу узнать что-то новое"
+        }
+      },
+      {
+        "title": "Расскажи шутку",
+        "action": {
+          "type": "text",
+          "text": "Расскажи шутку"
+        }
+      },
+      {
+        "title": "👍",
+        "action": {
+          "text": "лайк",
+          "type": "text"
+        }
+      },
+      {
+        "title": "👎",
+        "action": {
+          "text": "дизлайк",
+          "type": "text"
+        }
+      }
+    ]
+  },
+  "smartBio": {},
+  "voice": "Che_HQ",
+  "character": {
+    "id": "eva"
+  },
+  "userSettings": {},
+  "feature_launcher": {
+    "nlp_platform": {
+      "SimpleConnection": true,
+      "device_selector": true,
+      "greenfield_segment_list": [
+        "ALL_PEOPLES",
+        "onbordingTwo_nlp_platform",
+        "sbol_version_gte_12.0.0",
+        "SBOL"
+      ],
+      "sub_alt": true,
+      "uuid": true,
+      "uuid_alt": true
+    },
+    "assigned_testing_groups": [],
+    "public": {
+      "greenfield_segment_list": [
+        "ALL_PEOPLES",
+        "onbordingTwo_nlp_platform",
+        "sbol_version_gte_12.0.0",
+        "SBOL"
+      ]
+    }
+  },
+  "sid": ""
+}
