@@ -1,0 +1,141 @@
+{
+  "items": [
+    {
+      "card": {
+        "type": "list_card",
+        "paddings": {
+          "left": "8x",
+          "top": "6x",
+          "right": "8x",
+          "bottom": "6x"
+        },
+        "cells": [
+          {
+            "type": "button_cell_view",
+            "content": {
+              "plasma_button": {
+                "text": "primary",
+                "icon": {
+                  "type": "local",
+                  "identificator": "atm_banknote"
+                },
+                "actions": [
+                  {
+                    "type": "deep_link",
+                    "deep_link": "https://google.com"
+                  }
+                ],
+                "size": "medium",
+                "style": "primary"
+              }
+            },
+            "paddings": {
+              "top": "2x",
+              "bottom": "2x"
+            }
+          },
+          {
+            "type": "button_cell_view",
+            "content": {
+              "plasma_button": {
+                "text": "secondary",
+                "actions": [
+                  {
+                    "type": "deep_link",
+                    "deep_link": "https://google.com"
+                  }
+                ],
+                "size": "medium",
+                "style": "secondary"
+              }
+            },
+            "paddings": {
+              "top": "2x",
+              "bottom": "2x"
+            }
+          },
+          {
+            "type": "button_cell_view",
+            "content": {
+              "plasma_button": {
+                "text": "warning",
+                "actions": [
+                  {
+                    "type": "deep_link",
+                    "deep_link": "https://google.com"
+                  }
+                ],
+                "size": "medium",
+                "style": "warning"
+              }
+            },
+            "paddings": {
+              "top": "2x",
+              "bottom": "2x"
+            }
+          },
+          {
+            "type": "button_cell_view",
+            "content": {
+              "plasma_button": {
+                "text": "checked",
+                "actions": [
+                  {
+                    "type": "deep_link",
+                    "deep_link": "https://google.com"
+                  }
+                ],
+                "size": "medium",
+                "style": "checked"
+              }
+            },
+            "paddings": {
+              "top": "2x",
+              "bottom": "2x"
+            }
+          },
+          {
+            "type": "button_cell_view",
+            "content": {
+              "plasma_button": {
+                "text": "critical",
+                "actions": [
+                  {
+                    "type": "deep_link",
+                    "deep_link": "https://google.com"
+                  }
+                ],
+                "size": "medium",
+                "style": "critical"
+              }
+            },
+            "paddings": {
+              "top": "2x",
+              "bottom": "2x"
+            }
+          },
+          {
+            "type": "button_cell_view",
+            "content": {
+              "plasma_button": {
+                "text": "clear",
+                "actions": [
+                  {
+                    "type": "deep_link",
+                    "deep_link": "https://google.com"
+                  }
+                ],
+                "size": "medium",
+                "style": "clear"
+              }
+            },
+            "paddings": {
+              "top": "2x",
+              "bottom": "2x"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
