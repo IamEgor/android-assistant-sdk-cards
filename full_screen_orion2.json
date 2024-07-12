@@ -1,0 +1,29 @@
+{
+  "projectId": "38732415-53eb-4be3-b994-83170596f967",
+  "applicationId": "4f0fef08-2fa0-4e0a-9554-5fd1970a2702",
+  "appversionId": "a99263a7-9090-436a-b912-cb386e9fe736",
+  "systemName": "",
+  "frontendEndpoint": "https://test-orion.html5.center/sb-no-min.html",
+  "frontendType": "WEB_APP",
+  "apkInfo": {},
+  "ageLimit": 0,
+  "affiliationType": "EXTERNAL",
+  "frontendStateId": "38732415-53eb-4be3-b994-83170596f967_4f0fef08-2fa0-4e0a-9554-5fd1970a2702_a99263a7-9090-436a-b912-cb386e9fe736",
+  "securityAccess": {},
+  "appearance": {
+    "header": {
+      "title": "d574bd8d-15e3-4798-a580-19531be2ca4c",
+      "icon": {
+        "type": "url",
+        "url": "https://cdn.sberdevices.ru/static/services/target/38732415-53eb-4be3-b994-83170596f967/fa71dc3d-550b-4d04-b0dd-6652358dc4ec.png",
+        "hash": "1a18be772d731a45e622ee62bbd44446"
+      }
+    }
+  },
+  "allowFastRunApp": false,
+  "availableOrientations": [
+    "landscape"
+  ],
+  "canvasType": "full_screen",
+  "nativeHeader": false
+}
