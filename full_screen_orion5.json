@@ -1,0 +1,15 @@
+{
+  "activate_app_info": true,
+  "app_info": {
+    "projectId": "0ddb6d69-240f-47d8-bfd0-aaa12a822a7c",
+    "applicationId": "3753954e-394b-4d02-849b-ad9507e27a26",
+    "appversionId": "fe15f1ef-3591-4284-96f9-760c05a6dbef",
+    "systemName": "",
+    "frontendEndpoint": "https://far-orion.com/sb-d.html",
+    "frontendType": "WEB_APP",
+    "canvasType": "full_screen",
+    "availableOrientations": [
+      "landscape"
+    ]
+  }
+}
