@@ -1,0 +1,56 @@
+{
+  "type": "smart_app_data",
+  "smart_app_data": {
+    "unique_id": "bsCx5QkIj4Op66D4z1MZqtCf72UWIbuEP56Rbbt4YQr9R//wCtAYhEy1Ij8gz7soK0UURcmS9v9O3PYUckR3Y2RQ17z+sW/mPdIqXCtuLhJOEgK+vcwwKy9a7GYGjRqxA7/LPjZfZ9LqgNVwyJPAVOl7x9wCoDNsq9ED5nKKf4o=",
+    "sign": "iggf0cku6GOo6aEg7KRwsMHK5ADtteXG6zHw6k3YfIE=",
+    "sub": "bsCx5QkIj4Op66D4z1MZqtCf72UWIbuEP56Rbbt4YQr9R//wCtAYhEy1Ij8gz7soK0UURcmS9v9O3PYUckR3Y2RQ17z+sW/mPdIqXCtuLhJOEgK+vcwwKy9a7GYGjRqxA7/LPjZfZ9LqgNVwyJPAVOl7x9wCoDNsq9ED5nKKf4o=",
+    "projectName": "Far Orion",
+    "device": {
+      "platformType": "android",
+      "platformVersion": "9",
+      "surface": "SBERBOX",
+      "surfaceVersion": "1.91.20240129002732",
+      "features": {
+        "appTypes": [
+          "APK",
+          "WEB_APP",
+          "DIALOG",
+          "CHAT_APP"
+        ]
+      },
+      "capabilities": {
+        "mic": {
+          "available": true
+        },
+        "screen": {
+          "available": true,
+          "height": 1080,
+          "scale_factor": 2,
+          "width": 1920
+        },
+        "speak": {
+          "available": true
+        },
+        "uiFamily": "TV"
+      },
+      "deviceId": "SBB01Y10AB028005",
+      "deviceManufacturer": "SberDevices",
+      "deviceModel": "sberbox",
+      "additionalInfo": {
+        "uiFamily": "TV"
+      }
+    },
+    "app_info": {
+      "projectId": "0ddb6d69-240f-47d8-bfd0-aaa12a822a7c",
+      "applicationId": "3753954e-394b-4d02-849b-ad9507e27a26",
+      "appversionId": "fe15f1ef-3591-4284-96f9-760c05a6dbef",
+      "systemName": "",
+      "projectName": "Far Orion",
+      "frontendEndpoint": "https://far-orion.com/sb-d.html",
+      "frontendType": "WEB_APP",
+      "apkInfo": {},
+      "ageLimit": 12,
+      "affiliationType": "EXTERNAL"
+    }
+  }
+}
