@@ -1,0 +1,21 @@
+[
+  {
+    "data": {
+      "vps": {
+        "url": "vps.sberbank.ru",
+        "ssl_pinning": {
+          "certs": [
+            {
+              "host": "*.sberbank.ru",
+              "hash": "zxHPgQ+d6oVwS/Vzl0O874xelYUBfciRuw4/MjxuyzQ="
+            },
+            {
+              "host": "vps.sberbank.ru",
+              "hash": "zxHPgQ+d6oVwS/Vzl0O874xelYUBfciRuw4/MjxuyzQ="
+            }
+          ]
+        }
+      }
+    }
+  }
+]
