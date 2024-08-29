@@ -1,0 +1,48 @@
+{
+  "darkPalette": {
+    "textAccentMain": {
+      "mainColor": "#0000FF"
+    },
+    "textGradientMain": {
+      "mainColor": "#00FFFF",
+      "secondaryColor": "#0000FF"
+    },
+    "textOnDarkAccentMain": {
+      "mainColor": "#FF0000"
+    },
+    "textOnDarkGradientMain": {
+      "mainColor": "#FFFF00",
+      "secondaryColor": "#FF0000"
+    },
+    "textOnLightAccentMain": {
+      "mainColor": "#00FF00"
+    },
+    "textOnLightGradientMain": {
+      "mainColor": "#FF00FF",
+      "secondaryColor": "#00FF00"
+    }
+  },
+  "lightPalette": {
+    "textAccentMain": {
+      "mainColor": "#FFFF00"
+    },
+    "textGradientMain": {
+      "mainColor": "#FF0000",
+      "secondaryColor": "#FFFF00"
+    },
+    "textOnDarkAccentMain": {
+      "mainColor": "#FF00FF"
+    },
+    "textOnDarkGradientMain": {
+      "mainColor": "#00FF00",
+      "secondaryColor": "#FF00FF"
+    },
+    "textOnLightAccentMain": {
+      "mainColor": "#00FFFF"
+    },
+    "textOnLightGradientMain": {
+      "mainColor": "#0000FF",
+      "secondaryColor": "#00FFFF"
+    }
+  }
+}
